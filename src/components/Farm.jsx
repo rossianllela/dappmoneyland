@@ -27,14 +27,21 @@ function Farm () {
         <div className="cards-dapps-container">
                         <div className="cartes">
                             <div className="header-card-farm">
-                                <div className=""><p>Money Farms</p>
-                                <h2> FARMS AND STAKING</h2>
+                                <div className=""> <img 
+                                className="cofrelotery"
+                                src='./images/Simbolo_moneyland.png'
+                                alt="Money Land" 
+                                title="Money Land" /> <img 
+                                className="cofrelotery"
+                                src='./images/logobnb.png'
+                                alt="Money Land" 
+                                title="Money Land" /><p>MONEY-BUSD</p>
+                                <button className="button5">CORE</button><button className="button6">40X</button>
                                 </div>
-                                
                             </div>
                             <div className="cards-farms-body">
                                 <p>ONI TO HARVEST</p>
-                                <br />
+                                <br/>
                                 <p>Locked</p>
                             </div>  
                             <div className="cards-farms-body">
@@ -49,7 +56,11 @@ function Farm () {
 
                         <div className="cartes">
                             <div className="header-card-farm">
-                                <div className=""><p>Money Farms</p>
+                                <div className=""> <img 
+                                className="cofrelotery"
+                                src='./images/cofre5.png'
+                                alt="Money Land" 
+                                title="Money Land" /><p>Money Farms</p>
                                 <h2> FARMS AND STAKING</h2></div>
                                 
                             </div>
