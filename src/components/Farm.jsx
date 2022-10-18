@@ -86,7 +86,7 @@ function Farm () {
                                 <br />
                                 <button className="unlock-button">Harvest</button>
                                 <br></br>
-                                <h4>ONI-BUSD LP STAKED</h4>
+                                <h4>ONI-BNB LP STAKED</h4>
                             </div>                                                                                                          
                             <div className="cards-farms-footer">
                                 <button className="unlock-button">Unlock Wallet</button>    
@@ -123,7 +123,7 @@ function Farm () {
                                 <br />
                                 <button className="unlock-button">Harvest</button>
                                 <br></br>
-                                <h4>ONI-BUSD LP STAKED</h4>
+                                <h4>BNB-BUSD LP STAKED</h4>
                             </div>                                                                                                          
                             <div className="cards-farms-footer">
                                 <button className="unlock-button">Unlock Wallet</button>    
