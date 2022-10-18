@@ -16,6 +16,10 @@ function Farm () {
             <label for="switch-label" class="switch-button__label"></label>
                 <div class="contenedorfarm">  
                 </div>
+                </div>    
+                <div id="inputWrapper">
+                <input id="input" type="search" autocomplete="off" spellcheck="false" role="combobox" placeholder="Buscar" aria-live="polite">
+                    </input>
                 </div>
             </section>
         <br>
