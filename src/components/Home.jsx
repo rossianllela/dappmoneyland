@@ -40,7 +40,7 @@ function Home () {
                 </br>
                 <center>  <img 
                                 className="tesoro"
-                                src='./images/tesoroml.png'
+                                src='./images/cofre1.png'
                                 alt="Money Land" 
                                 title="Money Land" />
                 <h3>Intelligent AMM and yield farm on Binance Smart Chain</h3>
@@ -93,29 +93,18 @@ function Home () {
                             </div>    
                             <div className="cards-dapps-body">
                                 <p>TOTAL JACKPOT THIS ROUND:</p>
-                                </div>                                                                           
+                                </div>                                                                   
                             <div className="cards-dapps-footer">
-                                <button className="collect-button">Collect winnings</button>
-                                <button className="approve-button">Approve On</button>
+                            <button className="collect-button">Collect winnings</button> 
+                            <br>
+                            </br>
+                            <br>
+                            </br>
+                            <button className="approve-button">Approve On</button>
                             </div>                        
                         </div>    
                     </div>   
-                   
-                        
 
-
-
-
-                    <div className="">
-                        <div className=""></div>
-                        <div className=""></div>
-                        <div className=""></div>
-                    </div>
-                    <div className="">
-                        <div className=""></div>
-                        <div className=""></div>
-                    </div>
-                    
                     <div className="cartas-home">  
                         <div className="carts">
                             <h3>
@@ -125,6 +114,9 @@ function Home () {
                             <h3>
                                 IN MONEY FARMS
                             </h3>
+                            <button class="redondo">
+                            <ion-icon name="chevron-forward"></ion-icon>
+                            </button>
                         </div>     
                         <div className="cart">
                             <h3>
@@ -134,6 +126,8 @@ function Home () {
                             <h3>
                                 IN POOLS
                             </h3>
+                            <button class="redondo"><ion-icon name="chevron-forward"></ion-icon>
+                            </button>
                         </div> 
                     <div className="carts">
                         <h3>
@@ -143,10 +137,14 @@ function Home () {
                         <h3>
                             UP FOR GRABS
                         </h3>
+                        <button class="redondo">
+                        <ion-icon name="chevron-forward"></ion-icon>
+                        </button>
                     </div>  
                     
                 </div>  
-
+                <br>
+                </br>
                     <div className="cards-dapps-container">
                         <div className="cartes-home">
                             <div className="header-card-dapp">

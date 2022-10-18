@@ -9,6 +9,8 @@ function Farm () {
                 <section class="info2">
                 <h2><center>Money Farm</center></h2>
                 <h3><center>Stake Liquidity Pool (LP) tokens to earn.</center></h3>
+                <br>
+                </br>
                 <div class="switch-button">
             <input type="checkbox" name="switch-button" id="switch-label" class="switch-button__checkbox"></input>
             <label for="switch-label" class="switch-button__label"></label>

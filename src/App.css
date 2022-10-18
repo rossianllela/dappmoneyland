@@ -139,7 +139,8 @@ aside > div > ul > li > ion-icon {
 
 
 .approve-button {
-    -webkit-box-align: center;
+    margin-left: 20%;
+  -webkit-box-align: center;
     align-items: center;
     border: 0px;
     cursor: pointer;
@@ -153,17 +154,18 @@ aside > div > ul > li > ion-icon {
     opacity: 1;
     outline: 0px;
     transition: background-color 0.2s ease 0s;
-    height: 70px;
+    height: 60px;
     font-size: 14px;
     padding: 0px 32px;
     border-radius: 20px;
-    background: linear-gradient(rgb(255, 199, 66) 0%, rgb(232, 103, 37) 100%, rgb(232, 103, 37) 100%);
+    background: linear-gradient(rgb(179, 66, 255) 0%, rgb(160, 37, 232) 100%, rgb(115, 37, 232) 100%);
     color: white;
-    box-shadow: rgb(0 0 0 / 10%) 0px 17px 24px, rgb(255 166 40 / 30%) 0px -6px 18px, rgb(232 103 37 / 40%) 0px 17px 24px, rgb(36 42 48 / 45%) 0px -2px 6px inset, rgb(255 255 255 / 6%) 0px 2px 4px inset;
-    width: 100%;
+    box-shadow: rgba(64, 0, 80, 0.1) 0px 17px 24px, rgba(44, 1, 67, 0.3) 0px -6px 18px, rgba(209, 37, 232, 0.4) 0px 17px 24px, rgb(36 42 48 / 45%) 0px -2px 6px inset, rgb(255 255 255 / 6%) 0px 2px 4px inset;
+    width: 60%;
 }
 
 .collect-button {
+    margin-left: 10%;
     -webkit-box-align: center;
     align-items: center;
     border: 0px;
@@ -178,13 +180,14 @@ aside > div > ul > li > ion-icon {
     opacity: 1;
     outline: 0px;
     transition: background-color 0.2s ease 0s;
-    height: 70px;
+    height: 60px;
     font-size: 14px;
-    padding: 0px 32px;
+    padding: 1px 32px;
     border-radius: 20px;
-    background-color: rgb(36, 42, 48);
-    color: rgb(255, 255, 255);
-    box-shadow: rgb(0 0 0 / 41%) 0px 8px 20px, rgb(255 255 255 / 6%) 0px 2px 3px inset;
+    background: linear-gradient(rgb(49, 17, 255) 0%, rgb(27, 84, 254) 13.54%, rgb(50, 199, 249) 99.99%);
+    color: white;
+    box-shadow: rgba(115, 205, 247, 0.1) 0px 8px 20px;  
+    width: 60%;
 }
 
 .aside-footer {
@@ -530,6 +533,7 @@ aside {
 }
 
 .unlock-button {
+  margin-left: 10%;
     -webkit-box-align: center;
     align-items: center;
     border: 0px;
@@ -544,14 +548,14 @@ aside {
     opacity: 1;
     outline: 0px;
     transition: background-color 0.2s ease 0s;
-    height: 70px;
+    height: 60px;
     font-size: 14px;
     padding: 0px 32px;
     border-radius: 20px;
-    background: linear-gradient(rgb(250, 2, 2) 0%, rgb(62, 1, 1) 100%, rgb(254, 93, 93) 100%);
+    background: linear-gradient(rgb(2, 213, 250) 0%, rgb(1, 20, 62) 100%, rgb(93, 149, 254) 100%);
     color: white;
-    box-shadow: rgb(79, 0, 0) 0px 17px 24px, rgba(1, 0, 0, 0.3) 0px -6px 18px, rgba(109, 0, 0, 0.4) 0px 17px 24px, rgb(36 42 48 / 45%) 0px -2px 6px inset, rgb(255 255 255 / 6%) 0px 2px 4px inset;
-    width: 100%;
+    box-shadow: rgb(0, 54, 79) 0px 17px 24px, rgba(1, 0, 0, 0.3) 0px -6px 18px, rgba(109, 0, 0, 0.4) 0px 17px 24px, rgb(36 42 48 / 45%) 0px -2px 6px inset, rgb(255 255 255 / 6%) 0px 2px 4px inset;
+    width: 60%;
 }
 
 .cartas{
@@ -786,6 +790,7 @@ aside {
     border-radius: 2rem;
     display: inline-block;
     position: relative;
+    margin-left: 30%;
 }
 .switch-button .switch-button__label:before {
     transition: .2s;
@@ -948,7 +953,7 @@ aside {
   }
 
   .home-farm> p1{
-    color: rgb(255, 98, 77);
+    color: rgb(77, 222, 255);
     font-weight: 600;
     line-height: 1.5;
     text-transform: uppercase;
@@ -957,21 +962,21 @@ aside {
   }
 
   .home-lottery> p1{
-    color: rgb(255, 186, 0);
+    color: rgb(77, 222, 255);
     font-weight: 600;
     line-height: 1.5;
     text-transform: uppercase;
     font-size: 14px;
   }
   .home-info> p1{
-    color: rgb(34, 175, 142);
+    color: rgb(127, 0, 218);
     font-weight: 600;
     line-height: 1.5;
     text-transform: uppercase;
     font-size: 14px;
   }
   .home-value> p1{
-    color: rgb(238, 116, 1);
+    color: rgb(127, 0, 218);
     font-weight: 600;
     line-height: 1.5;
     text-transform: uppercase;
@@ -1002,6 +1007,24 @@ aside {
    .info2 > .cofre {
     width: 10%;
    }
+
+   .redondo{
+    margin-left: 45%;
+    display: block;
+    width: 50px;
+    height: 50px;
+    background-color: #3ec2fc;
+    border-color: white;
+    box-shadow: #3ec2fc;
+
+  }
+
+  .redondo{
+    display: block;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+  }
   
 
 
