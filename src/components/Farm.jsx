@@ -33,7 +33,7 @@ function Farm () {
                                 alt="Money Land" 
                                 title="Money Land" /> <img 
                                 className="cofrelotery"
-                                src='./images/logobnb.png'
+                                src='./images/logobusd.png'
                                 alt="Money Land" 
                                 title="Money Land" /><p>MONEY-BUSD</p>
                                 <button className="button5">CORE</button><button className="button6">40X</button>
@@ -48,7 +48,7 @@ function Farm () {
                                 <h4>In Wallet</h4>
                                 <p>0</p>
                                 <br />
-                                <button className="unlock-button">Unlock Wallet</button>
+                                <button className="unlock-button">Harvest</button>
                                 <br></br>
                                 <h4>ONI-BUSD LP STAKED</h4>
                             </div>                                                                                                          
@@ -59,17 +59,21 @@ function Farm () {
                             <ion-icon name="caret-down-outline"></ion-icon>
                         </button>                                      
                         </div>
-                    
+
 
                         <div className="cartes">
                             <div className="header-card-farm">
-                                <div className=""> <img 
+                                <div className=""><img 
                                 className="cofrelotery"
-                                src='./images/cofre5.png'
+                                src='./images/Simbolo_moneyland.png'
                                 alt="Money Land" 
-                                title="Money Land" /><p>Money Farms</p>
-                                <h2> FARMS AND STAKING</h2></div>
-                                
+                                title="Money Land" /> <img 
+                                className="cofrelotery"
+                                src='./images/logobnb.png'
+                                alt="Money Land" 
+                                title="Money Land" /><p>MONEY-BNB</p>
+                                <button className="button5">CORE</button><button className="button6">24X</button>
+                                </div>
                             </div>
                             <div className="cards-farms-body">
                                 <p>ONI TO HARVEST</p>
@@ -77,19 +81,36 @@ function Farm () {
                                 <p>Locked</p>
                             </div>  
                             <div className="cards-farms-body">
-                                <p>In Wallet</p>
+                            <h4>In Wallet</h4>
+                                <p>0</p>
                                 <br />
-                                <p>Locked</p>
+                                <button className="unlock-button">Harvest</button>
+                                <br></br>
+                                <h4>ONI-BUSD LP STAKED</h4>
                             </div>                                                                                                          
                             <div className="cards-farms-footer">
                                 <button className="unlock-button">Unlock Wallet</button>    
-                            </div>                                        
+                            </div> 
+                            <button class="redondo">
+                            <ion-icon name="caret-down-outline"></ion-icon>
+                        </button>                                              
                         </div>
+                        
+                        
+                        
                         <div className="cartes">
                             <div className="header-card-farm">
-                                <div className=""><p>Money Farms</p>
-                                <h2> FARMS AND STAKING</h2></div>
-                                
+                                <div className=""><img 
+                                className="cofrelotery"
+                                src='./images/logobnb.png'
+                                alt="Money Land" 
+                                title="Money Land" /> <img 
+                                className="cofrelotery"
+                                src='./images/logobusd.png'
+                                alt="Money Land" 
+                                title="Money Land" /><p>BNB-BUSD</p>
+                                <button className="button5">CORE</button><button className="button6">1X</button>
+                             </div>         
                             </div>
                             <div className="cards-farms-body">
                                 <p>ONI TO HARVEST</p>
@@ -105,7 +126,6 @@ function Farm () {
                                 <button className="unlock-button">Unlock Wallet</button>    
                             </div>                                        
                         </div>
-
                     </div>
        
       </article>
