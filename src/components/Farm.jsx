@@ -6,9 +6,9 @@ function Farm () {
             <div className="home-container">
                 <AsideMenu />
                 <article>
-                <section class="info">
+                <section class="info2">
                 <h2><center>Money Farm</center></h2>
-                <h2><center>Stake Liquidity Pool (LP) tokens to earn.</center></h2>
+                <h3><center>Stake Liquidity Pool (LP) tokens to earn.</center></h3>
                 <div class="switch-button">
             <input type="checkbox" name="switch-button" id="switch-label" class="switch-button__checkbox"></input>
             <label for="switch-label" class="switch-button__label"></label>
@@ -22,7 +22,8 @@ function Farm () {
                         <div className="cartes">
                             <div className="header-card-farm">
                                 <div className=""><p>Money Farms</p>
-                                <h2> FARMS AND STAKING</h2></div>
+                                <h2> FARMS AND STAKING</h2>
+                                </div>
                                 
                             </div>
                             <div className="cards-farms-body">

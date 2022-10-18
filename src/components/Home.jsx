@@ -74,7 +74,7 @@ function Home () {
                             </div>                                        
                         </div>
 
-
+                                     
                         <div className="cartes-home">
                             <div className="header-card-dapp">
                                 <div className="home-lottery">
@@ -93,15 +93,19 @@ function Home () {
                             </div>    
                             <div className="cards-dapps-body">
                                 <p>TOTAL JACKPOT THIS ROUND:</p>
-                                <p>Locked</p>
-                            </div>                                                                           
+                                </div>                                                                           
                             <div className="cards-dapps-footer">
                                 <button className="collect-button">Collect winnings</button>
                                 <button className="approve-button">Approve On</button>
                             </div>                        
-                        </div>
-                    </div>
-  
+                        </div>    
+                    </div>   
+                   
+                        
+
+
+
+
                     <div className="">
                         <div className=""></div>
                         <div className=""></div>

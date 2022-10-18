@@ -981,6 +981,27 @@ aside {
   .tradeexchange > h4 {
     color: rgb(255, 98, 77);
   }
+
+  .info2 {
+    background: rgb(21, 24, 27);
+    box-shadow: rgb(255 255 255 / 6%) 0px 2px 3px;
+}
+
+.info2 > h2 {
+ margin-right: 0%;
+  color: #3ec2fc;
+  font-size: 2.5rem;
+}
+
+.info2 > h3 {
+    margin-right: 0%;
+     color: #ffffff;
+     font-size: 1.3rem;
+   }
+
+   .info2 > .cofre {
+    width: 10%;
+   }
   
 
 
