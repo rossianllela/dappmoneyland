@@ -10,18 +10,23 @@ function Nft () {
                 <div className="cards-trade-container">
                         <div className="cartes-home">
                             <div className="header-trade-dapp">
-                                <div className="tradeexchange"><h2>EXCHANGE</h2>
+                                <div className="tradeexchange"><h2>EXCHANGE<ion-icon name="settings-outline"></ion-icon>
+                                <ion-icon name="sync-outline"></ion-icon></h2>
+                                
                                 <h4>TRADE TOKENS IN AN INSTANT</h4></div>
                                 
                             </div>
                             <div className="cards-trade-body">
-                                <p>FROM</p>
+                                <h4>FROM</h4>
                                 <p>0.0</p>
                             </div>  
+                            <button class="redondo">
+                            <ion-icon name="caret-down-outline"></ion-icon>
+                            </button>
                             <div className="cards-trade-body">
-                                <p>TO</p>
+                                <h4>TO</h4>
                                 <p>0.0</p>
-                            </div>                                                                                                          
+                            </div>                                                                                                        
                             <div className="cards-trade-footer">
                                 <button className="unlock-button">Unlock Wallet</button>    
                             </div>

@@ -45,14 +45,21 @@ function Farm () {
                                 <p>Locked</p>
                             </div>  
                             <div className="cards-farms-body">
-                                <p>In Wallet</p>
+                                <h4>In Wallet</h4>
+                                <p>0</p>
                                 <br />
-                                <p>Locked</p>
+                                <button className="unlock-button">Unlock Wallet</button>
+                                <br></br>
+                                <h4>ONI-BUSD LP STAKED</h4>
                             </div>                                                                                                          
                             <div className="cards-farms-footer">
                                 <button className="unlock-button">Unlock Wallet</button>    
-                            </div>                                        
+                            </div>  
+                            <button class="redondo">
+                            <ion-icon name="caret-down-outline"></ion-icon>
+                        </button>                                      
                         </div>
+                    
 
                         <div className="cartes">
                             <div className="header-card-farm">
