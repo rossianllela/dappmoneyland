@@ -1142,14 +1142,97 @@ ntp-realbox[shown] {
 }
 
 
-@media screen and (max-width:840px){
-    aside > div > ul > li > ion-icon {
+@media screen and (max-width:720px){
+  body, html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+} 
+  
+  aside > div > ul > li > ion-icon {
         font-size: 1rem;
         margin: 0.5rem;
         font-weight: bolder;
     }
-    
-    
+
+.cards {
+  width: 90%;
+  margin-bottom: 20px;
+}
+
+.div-time {
+  flex-direction: column;
+  height: 150px;
+}
+
+
+.circulos {
+  border-radius: 50%;
+  height: 1rem;
+  width: 1rem;
+}
+
+.button2 {
+  height: 2rem;
+  width: 1rem;
+}
+
+
+
+.button3 {
+  height: 2rem;
+  width: 1rem;
+}
+
+.cartes-home{
+  flex-direction: column;
+  justify-content: center;
+}
+
+.home-lottery{
+  flex-direction: column;
+  justify-content: center;
+}
+
+.home-farm{
+  flex-direction: column;
+  justify-content: center;
+}
+
+
+.cartas-home{
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.carts{
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.cards-dapps-container{
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.cards-dapps-body{
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.cards-dapps-footer{
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
     
 }
 

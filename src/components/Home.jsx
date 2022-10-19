@@ -10,7 +10,7 @@ function Home () {
                         <div className="">
                         <button className="button2">Collect winnings</button>
                         </div>
-                        <span class="sc-kHdrYz giTQXq">Massive burn in:</span>
+                        <span class="textohome">Massive burn in:</span>
                         <div className="circulos">
                             <div className="circles">
                                 <div className="circle-back">
@@ -118,7 +118,7 @@ function Home () {
                             <ion-icon name="chevron-forward"></ion-icon>
                             </button>
                         </div>     
-                        <div className="cart">
+                        <div className="carts">
                             <h3>
                                 EARN
                             </h3>
