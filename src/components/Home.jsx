@@ -157,9 +157,11 @@ function Home () {
                                 
                             </div>
                             <div className="cards-dapps-body">
-                                <p>TOTAL SUPPLY</p>
-                                <p>TOTAL BURNED</p>
-                                <p>NEW BLOCK</p>
+                            <div className='textohome'>
+                                <p>TOTAL SUPPLY</p><p>0</p>
+                                </div>
+                               <div className='textohome'><p>TOTAL BURNED</p><p>0</p></div>
+                               <div className='textohome'><p>NEW BLOCK</p><p>0</p></div>
                             </div>                                        
                         </div>
 

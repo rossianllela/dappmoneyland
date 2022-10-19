@@ -48,10 +48,6 @@ function AsideMenu() {
                         { toggle && <Link to={'/marketplace'}>NFT Market</Link> }                        
                     </li>
                     <li>
-                        <ion-icon name="shield-sharp"></ion-icon>
-                        { toggle && <p>Audit</p> }                        
-                    </li>
-                    <li>
                         <ion-icon name="person-add-sharp"></ion-icon>
                         { toggle && <Link to={'/Invite'}>Invite & Earn</Link> }                        
                     </li>
@@ -62,14 +58,6 @@ function AsideMenu() {
                     <li>
                         <ion-icon name="bar-chart-sharp"></ion-icon>
                         { toggle && <p>Analytics</p> }                        
-                    </li>
-                    <li>
-                        <ion-icon name="bulb-sharp"></ion-icon>
-                        { toggle && <Link to={'/Invite'}>IFO</Link>}                        
-                    </li>
-                    <li>
-                        <ion-icon name="ellipsis-horizontal-sharp"></ion-icon>
-                        { toggle && <p>MORE</p> }                        
                     </li>
                 </ul>
             </div>

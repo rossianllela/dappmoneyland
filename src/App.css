@@ -1126,6 +1126,21 @@ ntp-realbox[shown] {
   width: 20%;
 }
 
+.textohome{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.textotrade{
+  display: flex;
+  flex-direction: row;
+  justify-content:right;
+  margin-right: 10%;
+  align-items: center;
+}
+
 
 @media screen and (max-width:840px){
     aside > div > ul > li > ion-icon {
