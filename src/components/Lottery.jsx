@@ -10,6 +10,11 @@ function Lottery () {
                 <h2><center>The Money Lottery</center></h2>
                 <h3><center>Buy tickets with Money</center></h3>
                 <h3><center>Win if 2, 3, or 4 of your ticket numbers match!</center> </h3>
+                <img 
+                                className="derecha"
+                                src='./images/loteria.png'
+                                alt="Money Land" 
+                                title="Money Land" />
                 <div class="contenedorfarm">  
                 </div>
             </section>
@@ -29,12 +34,13 @@ function Lottery () {
                 <h2>47.972 Money</h2>
                             </div>
                 </div>  
-                <h3>
-                sfdsfsd
-                    </h3> 
+                <div className='textolottery'><p>NO. MATCHED</p><p>PRIZE POT</p></div>
+                <div className='textolottery'><h4>4</h4><p>0</p></div>
+                <div className='textolottery'><h4>3</h4><p>0</p></div>
+                <div className='textolottery'><h4>2</h4><p>0</p></div>
+                <div className='textolottery'><h4>To burn:</h4><p>0</p></div>
                 </div> 
                 <div className="cartes">
-                
                                <center><img 
                                 className="cofrelotery2"
                                 src='./images/cofre1.png'
@@ -53,21 +59,26 @@ function Lottery () {
                                 title="Money Land" />
         </center> 
        <h2><center>HOW IT WORKS</center></h2>
-       <h4><center>Spend ONI to buy tickets, contributing to the lottery pot. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their exact order!</center></h4>
+       <h4><center>Spend MONEY to buy tickets, contributing to the lottery pot. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their exact order!</center></h4>
        <br>
        </br>
        <h4><center>READ MORE</center></h4>
        <br>
        </br>
        <div className="cartitas">
-                    <h3>
-                       EARN UP TO
-                    </h3>
-                    <h1>124.67% APR</h1>
-                    <h3>
-                    IN MONEY FARMS
-                    </h3>
-                </div>  
+       <div className='botonlottery'>
+        <button className="buttonlot1">0</button>
+        </div>
+        <div className='botonlottery'>
+        <button className="buttonlot2">0</button>
+        </div>
+        <div className='botonlottery'>
+        <button className="buttonlot3">0</button>
+        </div>
+        <div className='botonlottery'>
+        <button className="buttonlot4">0</button>
+        </div>
+                </div>            
         </article>
                 </div>       
         </>

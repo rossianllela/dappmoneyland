@@ -51,24 +51,18 @@ function Farm () {
                                 </div>
                             </div>
                             <div className="cards-farms-body">
-                                <p>ONI TO HARVEST</p>
-                                <br/>
-                                <p>Locked</p>
+                            <div className='textohome'><p>APR:</p><p>0</p></div>
+                            <div className='textohome'><p>EARN:</p><p>MONEY</p></div>
                             </div>  
                             <div className="cards-farms-body">
-                                <h4>In Wallet</h4>
+                                <h4>MONEY EARNED</h4>
                                 <p>0</p>
-                                <br />
-                                <button className="unlock-button">Harvest</button>
-                                <br></br>
-                                <h4>ONI-BUSD LP STAKED</h4>
+                                <button className="unlock-button">Harvest</button>                          
                             </div>                                                                                                          
                             <div className="cards-farms-footer">
+                            <h4>MONEY-BUSD LP STAKED</h4>
                                 <button className="unlock-button">Unlock Wallet</button>    
-                            </div>  
-                            <button class="redondo">
-                            <ion-icon name="caret-down-outline"></ion-icon>
-                        </button>                                      
+                            </div>                                     
                         </div>
 
 
@@ -87,69 +81,57 @@ function Farm () {
                                 </div>
                             </div>
                             <div className="cards-farms-body">
-                                <p>ONI TO HARVEST</p>
-                                <br />
-                                <p>Locked</p>
+                            <div className='textohome'><p>APR:</p><p>0</p></div>
+                            <div className='textohome'><p>EARN:</p><p>MONEY</p></div>
                             </div>  
                             <div className="cards-farms-body">
-                            <h4>In Wallet</h4>
+                            <h4>MONEY EARNED</h4>
                                 <p>0</p>
-                                <br />
-                                <button className="unlock-button">Harvest</button>
-                                <br></br>
-                                <h4>ONI-BNB LP STAKED</h4>
+                                <button className="unlock-button">Harvest</button>                          
                             </div>                                                                                                          
                             <div className="cards-farms-footer">
+                            <h4>MONEY-BNB LP STAKED</h4>
                                 <button className="unlock-button">Unlock Wallet</button>    
-                            </div> 
-                            <button class="redondo">
-                            <ion-icon name="caret-down-outline"></ion-icon>
-                        </button>                                              
-                        </div>
-                        
-                        
+                            </div>                                        
+                        </div>   
                         
                         <div className="cartes">
                             <div className="header-card-farm">
                                 <div className=""><img 
                                 className="cofrelotery"
-                                src='./images/logobnb.png'
+                                src='./images/logobusd.png'
                                 alt="Money Land" 
                                 title="Money Land" /> <img 
                                 className="cofrelotery"
-                                src='./images/logobusd.png'
+                                src='./images/logobnb.png'
                                 alt="Money Land" 
-                                title="Money Land" /><p>BNB-BUSD</p>
+                                title="Money Land" /><p>BUSD-BNB</p>
                                 <button className="button5">CORE</button><button className="button6">1X</button>
-                             </div>         
+                                </div>
                             </div>
                             <div className="cards-farms-body">
-                                <p>ONI TO HARVEST</p>
-                                <br />
-                                <p>Locked</p>
+                            <div className='textohome'><p>APR:</p><p>0</p></div>
+                            <div className='textohome'><p>EARN:</p><p>MONEY</p></div>
                             </div>  
                             <div className="cards-farms-body">
-                            <h4>In Wallet</h4>
+                            <h4>MONEY EARNED</h4>
                                 <p>0</p>
-                                <br />
-                                <button className="unlock-button">Harvest</button>
-                                <br></br>
-                                <h4>BNB-BUSD LP STAKED</h4>
+                                <button className="unlock-button">Harvest</button>                          
                             </div>                                                                                                          
                             <div className="cards-farms-footer">
+                            <h4>BNB-BUSD LP STAKED</h4>
                                 <button className="unlock-button">Unlock Wallet</button>    
-                            </div>   
-                            <button class="redondo">
-                            <ion-icon name="caret-down-outline"></ion-icon>
-                        </button>                                      
+                            </div>                                      
                         </div>
-                    </div>
+
+
+                        </div>
 
 
                     <div className="cards-dapps-container">
-                        <div className="cartes">
+                    <div className="cartes">
                             <div className="header-card-farm">
-                                <div className=""> <img 
+                                <div className=""><img 
                                 className="cofrelotery"
                                 src='./images/usdt.png'
                                 alt="Money Land" 
@@ -157,104 +139,83 @@ function Farm () {
                                 className="cofrelotery"
                                 src='./images/logobusd.png'
                                 alt="Money Land" 
-                                title="Money Land" /><p>MONEY-BUSD</p>
-                                <button className="button5">CORE</button><button className="button6">40X</button>
+                                title="Money Land" /><p>USDT-BUSD</p>
+                                <button className="button5">CORE</button><button className="button6">1X</button>
                                 </div>
                             </div>
                             <div className="cards-farms-body">
-                                <p>ONI TO HARVEST</p>
-                                <br/>
-                                <p>Locked</p>
+                            <div className='textohome'><p>APR:</p><p>0</p></div>
+                            <div className='textohome'><p>EARN:</p><p>MONEY</p></div>
                             </div>  
                             <div className="cards-farms-body">
-                                <h4>In Wallet</h4>
+                            <h4>MONEY EARNED</h4>
                                 <p>0</p>
-                                <br />
-                                <button className="unlock-button">Harvest</button>
-                                <br></br>
-                                <h4>ONI-BUSD LP STAKED</h4>
+                                <button className="unlock-button">Harvest</button>                          
                             </div>                                                                                                          
                             <div className="cards-farms-footer">
+                            <h4>USDT-BUSD LP STAKED</h4>
                                 <button className="unlock-button">Unlock Wallet</button>    
-                            </div>  
-                            <button class="redondo">
-                            <ion-icon name="caret-down-outline"></ion-icon>
-                        </button>                                      
+                            </div>                                   
                         </div>
-
 
                         <div className="cartes">
                             <div className="header-card-farm">
                                 <div className=""><img 
                                 className="cofrelotery"
-                                src='./images/usdt.png'
+                                src='./images/USDT.png'
                                 alt="Money Land" 
                                 title="Money Land" /> <img 
                                 className="cofrelotery"
                                 src='./images/logobnb.png'
                                 alt="Money Land" 
-                                title="Money Land" /><p>MONEY-BNB</p>
-                                <button className="button5">CORE</button><button className="button6">24X</button>
+                                title="Money Land" /><p>USDT-BNB</p>
+                                <button className="button5">CORE</button><button className="button6">1X</button>
                                 </div>
                             </div>
                             <div className="cards-farms-body">
-                                <p>ONI TO HARVEST</p>
-                                <br />
-                                <p>Locked</p>
+                            <div className='textohome'><p>APR:</p><p>0</p></div>
+                            <div className='textohome'><p>EARN:</p><p>MONEY</p></div>
                             </div>  
                             <div className="cards-farms-body">
-                            <h4>In Wallet</h4>
+                            <h4>MONEY EARNED</h4>
                                 <p>0</p>
-                                <br />
-                                <button className="unlock-button">Harvest</button>
-                                <br></br>
-                                <h4>ONI-BNB LP STAKED</h4>
+                                <button className="unlock-button">Harvest</button>                          
                             </div>                                                                                                          
                             <div className="cards-farms-footer">
+                            <h4>USDT-BNB LP STAKED</h4>
                                 <button className="unlock-button">Unlock Wallet</button>    
-                            </div> 
-                            <button class="redondo">
-                            <ion-icon name="caret-down-outline"></ion-icon>
-                        </button>                                              
-                        </div>
-                        
-                        
+                            </div>                                   
+                        </div>    
                         
                         <div className="cartes">
                             <div className="header-card-farm">
                                 <div className=""><img 
                                 className="cofrelotery"
-                                src='./images/usdt.png'
+                                src='./images/bitcoin.png'
                                 alt="Money Land" 
                                 title="Money Land" /> <img 
                                 className="cofrelotery"
-                                src='./images/bitcoin.png'
+                                src='./images/logobnb.png'
                                 alt="Money Land" 
-                                title="Money Land" /><p>BNB-BUSD</p>
+                                title="Money Land" /><p>BTCB-BNB</p>
                                 <button className="button5">CORE</button><button className="button6">1X</button>
-                             </div>         
+                                </div>
                             </div>
                             <div className="cards-farms-body">
-                                <p>ONI TO HARVEST</p>
-                                <br />
-                                <p>Locked</p>
+                            <div className='textohome'><p>APR:</p><p>0</p></div>
+                            <div className='textohome'><p>EARN:</p><p>MONEY</p></div>
                             </div>  
                             <div className="cards-farms-body">
-                            <h4>In Wallet</h4>
+                            <h4>MONEY EARNED</h4>
                                 <p>0</p>
-                                <br />
-                                <button className="unlock-button">Harvest</button>
-                                <br></br>
-                                <h4>BNB-BUSD LP STAKED</h4>
+                                <button className="unlock-button">Harvest</button>                          
                             </div>                                                                                                          
                             <div className="cards-farms-footer">
+                            <h4>BTCB-BNB LP STAKED</h4>
                                 <button className="unlock-button">Unlock Wallet</button>    
-                            </div>   
-                            <button class="redondo">
-                            <ion-icon name="caret-down-outline"></ion-icon>
-                        </button>                                      
+                            </div>                                   
                         </div>
-                    </div>                   
+                        </div>                 
        
       </article>
                 </div>     

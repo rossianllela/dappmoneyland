@@ -20,7 +20,7 @@ function Invite () {
                     </h3>
                     <button className="button-invite">Unlock Wallet</button>  
                     <h4>
-                    Your will automatically get $Money in your wallet as reward whenever the referred user Harvests/Withdraws from our ONI Farms and Fuel Pools.
+                    Your will automatically get $Money in your wallet as reward whenever the referred user Harvests/Withdraws from our MONEY Farms and Fuel Pools.
                     </h4>
                 </div> 
                 </div>  

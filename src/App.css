@@ -1163,6 +1163,125 @@ ntp-realbox[shown] {
   width: 15%;
 }
 
+.textolottery{
+  display: flex;
+  flex-direction: row;
+  padding: 1rem;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.botonlottery{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+
+}
+
+
+.buttonlot1 {
+  margin: auto;
+  -webkit-box-align: center;
+  align-items: center;
+  border: 0px;
+  cursor: pointer;
+  display: inline-flex;
+  font-family: inherit;
+  font-size: 14px;
+  font-weight: 600;
+  -webkit-box-pack: center;
+  justify-content: center;
+  letter-spacing: 0.03em;
+  line-height: 1;
+  opacity: 1;
+  outline: 0px;
+  transition: background-color 0.2s ease 0s;
+  height: 70px;
+  padding: 0px 32px;
+  border-radius: 20px;
+  background: linear-gradient(rgb(49, 17, 255) 0%, rgb(27, 84, 254) 13.54%, rgb(50, 199, 249) 99.99%);
+  color: white;
+  box-shadow: rgb(0 0 0 / 10%) 0px 8px 20px, rgb(0 0 0 / 15%) 0px 17px 24px, rgba(104, 208, 253, 0.25) 0px -6px 15px, rgb(255 255 255 / 60%) 0px 3px 6px inset, rgb(36 42 48 / 60%) 0px -2px 6px inset, rgb(255 255 255 / 20%) 0px 2px 3px inset;
+}
+
+.buttonlot2 {
+  margin: auto;
+  -webkit-box-align: center;
+  align-items: center;
+  border: 0px;
+  cursor: pointer;
+  display: inline-flex;
+  font-family: inherit;
+  font-size: 14px;
+  font-weight: 600;
+  -webkit-box-pack: center;
+  justify-content: center;
+  letter-spacing: 0.03em;
+  line-height: 1;
+  opacity: 1;
+  outline: 0px;
+  transition: background-color 0.2s ease 0s;
+  height: 70px;
+  padding: 0px 32px;
+  border-radius: 20px;
+  background: linear-gradient(rgb(231, 255, 17) 0%, rgb(243, 254, 27) 13.54%, rgb(183, 249, 50) 99.99%);
+  color: white;
+  box-shadow: rgb(0 0 0 / 10%) 0px 8px 20px, rgb(0 0 0 / 15%) 0px 17px 24px, rgba(104, 208, 253, 0.25) 0px -6px 15px, rgb(255 255 255 / 60%) 0px 3px 6px inset, rgb(36 42 48 / 60%) 0px -2px 6px inset, rgb(255 255 255 / 20%) 0px 2px 3px inset;
+}
+
+.buttonlot3 {
+  margin: auto;
+  -webkit-box-align: center;
+  align-items: center;
+  border: 0px;
+  cursor: pointer;
+  display: inline-flex;
+  font-family: inherit;
+  font-size: 14px;
+  font-weight: 600;
+  -webkit-box-pack: center;
+  justify-content: center;
+  letter-spacing: 0.03em;
+  line-height: 1;
+  opacity: 1;
+  outline: 0px;
+  transition: background-color 0.2s ease 0s;
+  height: 70px;
+  padding: 0px 32px;
+  border-radius: 20px;
+  background: linear-gradient(rgb(49, 127, 1) 0%, rgb(27, 254, 46) 13.54%, rgb(57, 249, 50) 99.99%);
+  color: white;
+  box-shadow: rgb(0 0 0 / 10%) 0px 8px 20px, rgb(0 0 0 / 15%) 0px 17px 24px, rgba(104, 208, 253, 0.25) 0px -6px 15px, rgb(255 255 255 / 60%) 0px 3px 6px inset, rgb(36 42 48 / 60%) 0px -2px 6px inset, rgb(255 255 255 / 20%) 0px 2px 3px inset;
+}
+
+
+.buttonlot4 {
+  margin: auto;
+  -webkit-box-align: center;
+  align-items: center;
+  border: 0px;
+  cursor: pointer;
+  display: inline-flex;
+  font-family: inherit;
+  font-size: 14px;
+  font-weight: 600;
+  -webkit-box-pack: center;
+  justify-content: center;
+  letter-spacing: 0.03em;
+  line-height: 1;
+  opacity: 1;
+  outline: 0px;
+  transition: background-color 0.2s ease 0s;
+  height: 70px;
+  padding: 0px 32px;
+  border-radius: 20px;
+  background: linear-gradient(rgb(255, 17, 17) 0%, rgb(205, 20, 0) 13.54%, rgb(249, 50, 50)99.99%);
+  color: white;
+  box-shadow: rgb(0 0 0 / 10%) 0px 8px 20px, rgb(0 0 0 / 15%) 0px 17px 24px, rgba(104, 208, 253, 0.25) 0px -6px 15px, rgb(255 255 255 / 60%) 0px 3px 6px inset, rgb(36 42 48 / 60%) 0px -2px 6px inset, rgb(255 255 255 / 20%) 0px 2px 3px inset;
+}
+
 
 @media screen and (max-width:720px){
   body, html {
