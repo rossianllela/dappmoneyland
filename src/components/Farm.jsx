@@ -7,20 +7,31 @@ function Farm () {
                 <AsideMenu />
                 <article>
                 <section class="info2">
-                <h2><center>Money Farm</center></h2>
-                <h3><center>Stake Liquidity Pool (LP) tokens to earn.</center></h3>
-                <br>
-                </br>
-                <div class="switch-button">
-            <input type="checkbox" name="switch-button" id="switch-label" class="switch-button__checkbox"></input>
-            <label for="switch-label" class="switch-button__label"></label>
+                <h2><center>Money Farm</center></h2>               
+                                <h3><center>Stake Liquidity Pool (LP) tokens to earn.</center></h3>
+                                <img 
+                                className="izquierda"
+                                src='./images/cofre7.png'
+                                alt="Money Land" 
+                                title="Money Land" />
+                 <img 
+                                className="izquierda2"
+                                src='./images/cofre5.png'
+                                alt="Money Land" 
+                                title="Money Land" /> 
+
+                                <img 
+                                className="derecha"
+                                src='./images/cofre6.png'
+                                alt="Money Land" 
+                                title="Money Land" />
+                                <img 
+                                className="derecha2"
+                                src='./images/cofre8.png'
+                                alt="Money Land" 
+                                title="Money Land" />
                 <div class="contenedorfarm">  
-                </div>
                 </div>    
-                <div id="inputWrapper">
-                <input id="input" type="search" autocomplete="off" spellcheck="false" role="combobox" placeholder="Buscar" aria-live="polite">
-                    </input>
-                </div>
             </section>
         <br>
         </br>
@@ -140,7 +151,7 @@ function Farm () {
                             <div className="header-card-farm">
                                 <div className=""> <img 
                                 className="cofrelotery"
-                                src='./images/Simbolo_moneyland.png'
+                                src='./images/usdt.png'
                                 alt="Money Land" 
                                 title="Money Land" /> <img 
                                 className="cofrelotery"
@@ -176,7 +187,7 @@ function Farm () {
                             <div className="header-card-farm">
                                 <div className=""><img 
                                 className="cofrelotery"
-                                src='./images/Simbolo_moneyland.png'
+                                src='./images/usdt.png'
                                 alt="Money Land" 
                                 title="Money Land" /> <img 
                                 className="cofrelotery"
@@ -213,11 +224,11 @@ function Farm () {
                             <div className="header-card-farm">
                                 <div className=""><img 
                                 className="cofrelotery"
-                                src='./images/logobnb.png'
+                                src='./images/usdt.png'
                                 alt="Money Land" 
                                 title="Money Land" /> <img 
                                 className="cofrelotery"
-                                src='./images/logobusd.png'
+                                src='./images/bitcoin.png'
                                 alt="Money Land" 
                                 title="Money Land" /><p>BNB-BUSD</p>
                                 <button className="button5">CORE</button><button className="button6">1X</button>

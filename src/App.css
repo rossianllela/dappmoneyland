@@ -1141,6 +1141,28 @@ ntp-realbox[shown] {
   align-items: center;
 }
 
+.izquierda {
+  float: left;
+  width: 10%;
+
+}
+
+.derecha {
+  float: right;
+  width: 10%;
+}
+
+.izquierda2 {
+  float: left;
+  width: 15%;
+
+}
+
+.derecha2 {
+  float: right;
+  width: 15%;
+}
+
 
 @media screen and (max-width:720px){
   body, html {
