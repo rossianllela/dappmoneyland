@@ -24,13 +24,27 @@ function Nft () {
                             <div className="cards-trade-body">
                                 <h4>FROM</h4>
                                 <p>0.0</p>
+                                <div class="caja">
+  <select>
+    <option>La primera opción</option>
+    <option>La segunda opción</option>
+    <option>La tercera opción</option>
+  </select>
+</div>
                             </div>  
                             <button class="redondo">
                             <ion-icon name="caret-down-outline"></ion-icon>
                             </button>
                             <div className="cards-trade-body">
                                 <h4>TO</h4>
-                                <p>0.0</p>
+                                <p>0.0</p>  
+                                <div class="caja">
+  <select>
+    <option>La primera opción</option>
+    <option>La segunda opción</option>
+    <option>La tercera opción</option>
+  </select>
+</div>       
                             </div>                                                                                                        
                             <div className="cards-trade-footer">
                                 <button className="unlock-button">Unlock Wallet</button>    

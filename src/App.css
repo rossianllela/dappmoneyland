@@ -1282,6 +1282,38 @@ ntp-realbox[shown] {
   box-shadow: rgb(0 0 0 / 10%) 0px 8px 20px, rgb(0 0 0 / 15%) 0px 17px 24px, rgba(104, 208, 253, 0.25) 0px -6px 15px, rgb(255 255 255 / 60%) 0px 3px 6px inset, rgb(36 42 48 / 60%) 0px -2px 6px inset, rgb(255 255 255 / 20%) 0px 2px 3px inset;
 }
 
+.caja {
+  margin:20px auto 40px auto;	
+  border:1px solid #d9d9d9;
+  height:30px;
+  overflow: hidden;
+  width: 230px;
+  position:relative;
+}
+select {
+  background: transparent;
+  border: none;
+  font-size: 14px;
+  height: 30px;
+  padding: 5px;
+  width: 250px;
+}
+select:focus{ outline: none;}
+
+.caja::after{
+ content:"\025be";
+ display:table-cell;
+ padding-top:7px;
+ text-align:center;
+ width:30px;
+ height:30px;
+ background-color:#d9d9d9;
+ position:absolute;
+ top:0;
+ right:0px;	
+ pointer-events: none;
+}
+
 
 @media screen and (max-width:720px){
   body, html {
