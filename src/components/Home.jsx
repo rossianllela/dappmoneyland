@@ -63,7 +63,6 @@ function Home () {
                             <div className="cards-dapps-body">
                                 <p>ONI TO HARVEST</p>
                                 <p>Locked </p>
-
                             </div>  
                             <div className="cards-dapps-body">
                                 <p>In Wallet</p>
@@ -71,10 +70,12 @@ function Home () {
                             </div>                                                                                                          
                             <div className="cards-dapps-footer">
                                 <button className="unlock-button">Unlock Wallet</button>    
-                            </div>                                        
+                            </div>  
+                            <br>
+                            </br>                                     
                         </div>
+                
 
-                                     
                         <div className="cartes-home">
                             <div className="header-card-dapp">
                                 <div className="home-lottery">
@@ -85,7 +86,7 @@ function Home () {
                                       title="Money Land" /> </p1>
                                      
                                     <h1>YOUR LOTTERY WINNINGS</h1>
-                                </div>
+                            </div>       
                             </div>
                             <div className="cards-dapps-body"> 
                                 <p>To Collect</p>
@@ -93,17 +94,20 @@ function Home () {
                             </div>    
                             <div className="cards-dapps-body">
                                 <p>TOTAL JACKPOT THIS ROUND:</p>
+                                <p>Locked</p>
                                 </div>                                                                   
                             <div className="cards-dapps-footer">
-                            <button className="collect-button">Collect winnings</button> 
+                            <div className='textohome'>
+                            <button className="unlock-button">COLLECT WINNINGS</button> 
+                            <button className="unlock-button">APROVE MONEY</button>
+                            </div>
+                            </div> 
                             <br>
-                            </br>
-                            <br>
-                            </br>
-                            <button className="approve-button">Approve On</button>
-                            </div>                        
-                        </div>    
+                            </br>   
+                        </div> 
+                        
                     </div>   
+                 
 
                     <div className="cartas-home">  
                         <div className="carts">
@@ -176,12 +180,9 @@ function Home () {
                                 title="Money Land" /> </p1>
                                     <h1>TOTAL VALUE LOCKED</h1>
                                 </div>
-                            </div>
-                            <div className="cards-dapps-body"> 
-                                <p>$00</p>
-                                <p>ACROSS ALL LPS AND FUEL POOLS</p>
-                            </div>    
-                                                 
+                            </div> 
+                            <p>$00</p>
+                                <p>ACROSS ALL LPS AND FUEL POOLS</p>                 
                         </div>
                     </div>
   

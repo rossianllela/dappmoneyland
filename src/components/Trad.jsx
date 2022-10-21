@@ -49,6 +49,10 @@ function Nft () {
                             <div className="cards-trade-footer">
                                 <button className="unlock-button">Unlock Wallet</button>    
                             </div>
+                            <br>
+                            </br>
+                            <br>
+                            </br>
                             </div>  
                             </div>   
 

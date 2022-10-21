@@ -62,7 +62,9 @@ function Farm () {
                             <div className="cards-farms-footer">
                             <h4>MONEY-BUSD LP STAKED</h4>
                                 <button className="unlock-button">Unlock Wallet</button>    
-                            </div>                                     
+                            </div>
+                            <br>
+                            </br>                                 
                         </div>
 
 
@@ -92,7 +94,9 @@ function Farm () {
                             <div className="cards-farms-footer">
                             <h4>MONEY-BNB LP STAKED</h4>
                                 <button className="unlock-button">Unlock Wallet</button>    
-                            </div>                                        
+                            </div>  
+                            <br>
+                            </br>                                      
                         </div>   
                         
                         <div className="cartes">
@@ -121,7 +125,9 @@ function Farm () {
                             <div className="cards-farms-footer">
                             <h4>BNB-BUSD LP STAKED</h4>
                                 <button className="unlock-button">Unlock Wallet</button>    
-                            </div>                                      
+                            </div> 
+                            <br>
+                            </br>                                
                         </div>
 
 
@@ -155,7 +161,9 @@ function Farm () {
                             <div className="cards-farms-footer">
                             <h4>USDT-BUSD LP STAKED</h4>
                                 <button className="unlock-button">Unlock Wallet</button>    
-                            </div>                                   
+                            </div>    
+                            <br>
+                            </br>                           
                         </div>
 
                         <div className="cartes">
@@ -184,7 +192,9 @@ function Farm () {
                             <div className="cards-farms-footer">
                             <h4>USDT-BNB LP STAKED</h4>
                                 <button className="unlock-button">Unlock Wallet</button>    
-                            </div>                                   
+                            </div>   
+                            <br>
+                            </br>                           
                         </div>    
                         
                         <div className="cartes">
@@ -213,7 +223,9 @@ function Farm () {
                             <div className="cards-farms-footer">
                             <h4>BTCB-BNB LP STAKED</h4>
                                 <button className="unlock-button">Unlock Wallet</button>    
-                            </div>                                   
+                            </div>
+                            <br>
+                            </br>                               
                         </div>
                         </div>                 
        
