@@ -26,8 +26,9 @@ function Game () {
                                 className="game"
                                 src='./images/flappygame.webp'
                                 alt="Money Land" 
-                                title="Money Land" /> 
-         <br></br>
+                                title="Money Land" />
+         <br>
+        </br>                              
         <button className="buttonnft">Go!</button>
                 </div>   
                 <div className="cartosgame">
@@ -36,7 +37,8 @@ function Game () {
                                 src='./images/flappygame.webp'
                                 alt="Money Land" 
                                 title="Money Land" /> 
-         <br></br>
+        <br>
+        </br>
         <button className="buttonnft">Go!</button>
                 </div>       
 
