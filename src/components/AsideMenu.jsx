@@ -63,20 +63,16 @@ function AsideMenu() {
             </div>
             <div className="aside-footer">
                 <div className="fields-footer">
-                    <div className="">
-                        <ion-icon name="stats-chart-sharp"></ion-icon>
-                    </div>
-                    <div className="">
-                        <div className="">
-                            <ion-icon name="logo-whatsapp"></ion-icon>
-                        </div>
-                        <div className="">
-                            <ion-icon name="logo-twitter"></ion-icon>
-                        </div>
-                    </div>
+                <div className="">
+                <ul>
+                    <li>
+                    <ion-icon name="logo-whatsapp"></ion-icon>                            
+                    </li>
+                    <li>
+                    <ion-icon name="logo-twitter"></ion-icon>                 
+                    </li>
+                </ul>
                 </div>
-                <div className="fields-footer">
-                    <div className=""></div>
                 </div>
             </div>
         </aside>

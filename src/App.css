@@ -90,6 +90,7 @@ article, aside {
 #root > div > header > div > div:nth-child(1) > div:nth-child(1) > ion-icon {
     font-size: 2.5rem;
     font-weight: bolder;
+    margin-left: 3rem;
 }
 
 ul, li {
@@ -452,7 +453,7 @@ article {
 #root > div > div > aside > div:nth-child(1) {
     max-height: 75%;
     overflow-y: scroll;
-    padding-right: 2.5rem;
+    padding-right: 0.5rem;
 }
 
 #root > div > div > aside > div:nth-child(1)::-webkit-scrollbar-thumb {
@@ -473,9 +474,18 @@ aside {
     height: 90%;
     position: fixed;
     background: #272c32;
-    color: white;
+    color: #ffffff;
     overflow-y: hidden;
 }
+
+.aside-footer > div > ul, .aside-footer > div > ul > li {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+
 
 .home-container {
     color: white;
