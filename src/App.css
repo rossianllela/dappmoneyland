@@ -79,7 +79,7 @@ body::-webkit-scrollbar {
   }
 
 article > div, article {
-    border: 5px solid transparent;
+    border: 1rem solid transparent;
     display: flex;
 }
 
@@ -634,11 +634,11 @@ aside {
 
   .cartes{
     border-radius: 30px;
-    margin: 5px;
+    margin: auto;
     display: flex;
     flex-direction: column;
     text-align: center;
-    width: 60% !important;
+    width: 100% !important;
     height: auto;
     /*height: 10rem !important;
     padding: 3.5rem 0 3.5rem 0;*/
@@ -651,12 +651,12 @@ aside {
 
 
   .cartes-home{
-    text-indent: 2rem;
+    text-indent: 1rem;
     border-radius: 30px;
-    margin: 5px;
+    margin: 2rem;
     display: flex;
     flex-direction: column;
-    text-align: left;
+    text-align: center;
     width: 60% !important;
     height: auto;
     /*height: 10rem !important;
@@ -671,7 +671,7 @@ aside {
   }
 
   .cards-dapps-body {
-    padding: 3rem;
+    padding: 1rem;
     /*margin-bottom: -3rem;
     margin-top: -2rem;*/
   }
