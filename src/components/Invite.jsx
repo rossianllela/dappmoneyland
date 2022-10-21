@@ -19,6 +19,8 @@ function Invite () {
                     Share the referral link below to invite your friends and earn 2% of your friends earnings FOREVER!  
                     </h3>
                     <button className="button-invite">Unlock Wallet</button>  
+                    <br>
+                    </br>
                     <h4>
                     Your will automatically get $Money in your wallet as reward whenever the referred user Harvests/Withdraws from our MONEY Farms and Fuel Pools.
                     </h4>
