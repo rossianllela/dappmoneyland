@@ -12,6 +12,7 @@ import Invite from './components/Invite';
 import Trad from './components/Trad';
 import Home from './components/Home';
 import Banks from "./components/Banks";
+import Game from './components/Game';
 
 const router = createBrowserRouter([
   {
@@ -41,10 +42,11 @@ const router = createBrowserRouter([
   {
     path: "/Banks",
     element: <Banks />,
+  },
+  {
+    path: "/Game",
+    element: <Game />,
   }
-
-
-
 
 ]);
 

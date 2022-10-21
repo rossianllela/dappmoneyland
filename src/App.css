@@ -56,6 +56,10 @@ body::-webkit-scrollbar {
     width: 40%;
   }
 
+  .game {
+    width: 60%;
+  }
+
   .cof {
     width: 15%;
     height: auto;
@@ -619,7 +623,32 @@ aside {
 
   .cartos{
     border-radius: 10px;
-    margin: 5px;
+    margin: 1rem;
+    display: row; 
+    text-align: center;
+    width: 40% !important;
+    height: 7rem !important;
+    padding: 3.5rem 0 3.5rem 0;
+  }
+
+  .cartosgame {
+    color: white;
+    background: #282828;
+  }
+
+  .cartosgame{
+    border-radius: 10px;
+    margin: 1rem;
+    display: row; 
+    text-align: center;
+    width: 40% !important;
+    height: 7rem !important;
+    padding: 3.5rem 0 3.5rem 0;
+  }
+
+  .cartosgame{
+    border-radius: 10px;
+    margin: auto;
     display: row; 
     text-align: center;
     width: 40% !important;

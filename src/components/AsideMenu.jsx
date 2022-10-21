@@ -37,7 +37,7 @@ function AsideMenu() {
                     </li>
                    <li>
                          <ion-icon name="dice-sharp"></ion-icon>
-                        { toggle && <Link to={'/Pools'}>Play and win</Link> }                        
+                        { toggle && <Link to={'/Game'}>Play and win</Link> }                        
                     </li>
                     <li>
                         <ion-icon name="ticket-sharp"></ion-icon>
