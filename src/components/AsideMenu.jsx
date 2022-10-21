@@ -71,6 +71,12 @@ function AsideMenu() {
                     <li>
                     <ion-icon name="logo-twitter"></ion-icon>                 
                     </li>
+                    <li>
+                    <ion-icon name="logo-instagram"></ion-icon>          
+                    </li>
+                    <li>
+                    <ion-icon name="logo-facebook"></ion-icon>    
+                    </li>
                 </ul>
                 </div>
                 </div>
