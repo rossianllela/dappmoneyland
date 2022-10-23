@@ -94,7 +94,7 @@ article, aside {
 #root > div > header > div > div:nth-child(1) > div:nth-child(1) > ion-icon {
     font-size: 2.5rem;
     font-weight: bolder;
-    margin-left: 3rem;
+    margin-left: 2rem;
 }
 
 ul, li {
@@ -475,7 +475,7 @@ article {
 
 
 aside {
-    max-width: 25%;
+    max-width: 50%;
     height: 90%;
     position: fixed;
     background: #272c32;
