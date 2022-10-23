@@ -41,9 +41,7 @@ function Header () {
                         <div className="assets-flags">
                             <button className="connect-button">Connect</button>
                         </div>
-                        <div className="assets-flags">
-                            <ion-icon name="radio-button-off-outline"></ion-icon>
-                        </div>
+                        
                     </div>
                 </div>
             </header>
