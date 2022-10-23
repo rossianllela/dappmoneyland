@@ -43,7 +43,9 @@ function Home () {
                                 src='./images/cofre1.png'
                                 alt="Money Land" 
                                 title="Money Land" />
-                <h3>Intelligent AMM and yield farm on Binance Smart Chain</h3>
+                <div className='letra'>              
+                  <h3>Intelligent AMM and yield farm on Binance Smart Chain</h3>
+                </div>          
                 </center>     
                 <br>
                 </br>

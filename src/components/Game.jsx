@@ -11,7 +11,7 @@ function Game () {
                                 <h3><center>Looking for REAL MONEY rewards? MONEY LAND is the right place to EARN MONEY.</center></h3>
     
                                 <img 
-                                className="derecha2"
+                                className="derecha3"
                                 src='./images/gana.png'
                                 alt="Money Land" 
                                 title="Money Land" />

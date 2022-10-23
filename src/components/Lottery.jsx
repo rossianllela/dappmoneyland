@@ -11,7 +11,7 @@ function Lottery () {
                 <h3><center>Buy tickets with Money</center></h3>
                 <h3><center>Win if 2, 3, or 4 of your ticket numbers match!</center> </h3>
                 <img 
-                                className="derecha"
+                                className="derecha4"
                                 src='./images/loteria.png'
                                 alt="Money Land" 
                                 title="Money Land" />
@@ -40,6 +40,10 @@ function Lottery () {
                 <div className='textolottery'><h4>2</h4><p>0</p></div>
                 <div className='textolottery'><h4>To burn:</h4><p>0</p></div>
                 </div> 
+                <br>
+                            </br> 
+                            <br>
+                            </br>   
                 <div className="cartes">
                                <center><img 
                                 className="cofrelotery2"
@@ -59,28 +63,14 @@ function Lottery () {
                                 title="Money Land" />
         </center> 
        <h2><center>HOW IT WORKS</center></h2>
-       <h4><center>Spend MONEY to buy tickets, contributing to the lottery pot. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their exact order!</center></h4>
+       <div className='letra'>
+        <h4><center>Spend MONEY to buy tickets, contributing to the lottery pot. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their exact order!</center></h4>
+       </div>
        <br>
        </br>
-       <h4><center>READ MORE</center></h4>
-       <br>
-       </br>
-       <div className="cartitas">
-       <div className='botonlottery'>
-        <button className="buttonlot1">0</button>
-        </div>
-        <div className='botonlottery'>
-        <button className="buttonlot2">0</button>
-        </div>
-        <div className='botonlottery'>
-        <button className="buttonlot3">0</button>
-        </div>
-        <div className='botonlottery'>
-        <button className="buttonlot4">0</button>
-        </div>
-                </div>            
+       <h4><center>READ MORE</center></h4>           
         </article>
-                </div>       
+                </div>
         </>
     );
 }
