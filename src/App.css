@@ -468,7 +468,7 @@ article {
 
 #root > div > div > aside > div:nth-child(1)::-webkit-scrollbar {
     background-color: #22262b;
-    width: 8px;
+    width: 5px;
 }
 
 
