@@ -49,7 +49,7 @@ body::-webkit-scrollbar {
 }
 
 .logo {
-    width: 45%;
+    width: 40%;
   }
 
 .cofre {
@@ -219,11 +219,12 @@ aside > div > ul > li > ion-icon {
 
 aside > div > ul > li > ion-icon:hover {
     color: #3ec2fc;
+    width: 80%;
 }
 
 aside > div > ul > li {
     flex-direction: row;
-    width: 100%;
+    width: 80%;
     justify-content: center;
     align-items: center;
 }
@@ -247,12 +248,13 @@ aside > div > ul > li {
     width: 90%;
     margin: auto;
     align-items: center;
-    justify-content: space-evenly;
     height: 10rem;
     gap: 1rem;
     margin-top: 2.5rem;
     border-radius: 28px;
     background: linear-gradient(rgb(40, 44, 50) 0%, rgb(31, 36, 40) 100%);
+    justify-content: center;
+    margin: 3.5rem;
 }
 
 .div-refer {
@@ -452,7 +454,7 @@ article {
     width: 75%;
     min-width: 75%;
     max-width: 90%;
-    margin: 5rem;
+    margin: auto;
 }
 
 #root > div > div > aside > div:nth-child(1) {
@@ -687,7 +689,7 @@ aside {
     display: flex;
     flex-direction: column;
     text-align: center;
-    width: 90% !important;
+    width: 50% !important;
     height: auto;
     /*height: 10rem !important;
     padding: 3.5rem 0 3.5rem 0;*/
@@ -892,7 +894,7 @@ aside {
   }
 
   .cards-farms-body {
-    padding: 3rem;
+    padding: 5rem;
     /*margin-bottom: -3rem;
     margin-top: -2rem;*/
   }
@@ -1030,6 +1032,10 @@ aside {
   .info2 {
     background: rgb(21, 24, 27);
     box-shadow: rgb(255 255 255 / 6%) 0px 2px 3px;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin: 3rem;
 }
 
 .info2 > h2 {
@@ -1363,6 +1369,15 @@ select:focus{ outline: none;}
  pointer-events: none;
 }
 
+.cards-dapps-container{
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin: 1.5rem;
+}
+
+
 
 @media screen and (max-width:811px){
 
@@ -1532,6 +1547,15 @@ article > div, article {
   width: 80%;
 }
 
+article {
+  width: 75%;
+  min-width: 75%;
+  max-width: 90%;
+  margin: 5rem;
+}
 
+.cartes-home{
+  width: 90% !important;
+}
 
 }
