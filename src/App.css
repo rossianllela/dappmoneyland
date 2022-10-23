@@ -1357,7 +1357,6 @@ select:focus{ outline: none;}
 
 @media screen and (max-width:811px){
 
-
   aside > div > ul > li > ion-icon {
         font-size: 1rem;
         margin: 0.3rem;

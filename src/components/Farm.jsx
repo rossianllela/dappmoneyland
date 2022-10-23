@@ -67,6 +67,10 @@ function Farm () {
                             </br>                                 
                         </div>
 
+                        <br>
+                            </br> 
+                            <br>
+                            </br> 
 
                         <div className="cartes">
                             <div className="header-card-farm">
@@ -99,6 +103,10 @@ function Farm () {
                             </br>                                      
                         </div>   
                         
+                        <br>
+                            </br> 
+                            <br>
+                            </br>   
                         <div className="cartes">
                             <div className="header-card-farm">
                                 <div className=""><img 
@@ -129,10 +137,7 @@ function Farm () {
                             <br>
                             </br>                                
                         </div>
-
-
                         </div>
-
 
                     <div className="cards-dapps-container">
                     <div className="cartes">
@@ -165,7 +170,10 @@ function Farm () {
                             <br>
                             </br>                           
                         </div>
-
+                        <br>
+                            </br> 
+                            <br>
+                            </br> 
                         <div className="cartes">
                             <div className="header-card-farm">
                                 <div className=""><img 
@@ -195,7 +203,11 @@ function Farm () {
                             </div>   
                             <br>
                             </br>                           
-                        </div>    
+                        </div> 
+                        <br>
+                            </br> 
+                            <br>
+                            </br> 
                         
                         <div className="cartes">
                             <div className="header-card-farm">
