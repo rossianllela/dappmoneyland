@@ -1438,18 +1438,21 @@ select:focus{ outline: none;}
 }
 
 .info2 {
-  width: 100%;
+  flex-direction:column;
+  justify-content: center;
   align-items: center;
-  align-content: center;
+  width: 90%;
+  gap: 1.5rem;
   margin: auto;
 
 }
 
 section {
-  width: 100%;
+  flex-direction:column;
+  justify-content: center;
   align-items: center;
-  align-content: center;
-  margin: auto;
+  width: 90%;
+  gap: 1.5rem;
 }
 
 .caja {
@@ -1459,6 +1462,8 @@ section {
 .unlock-button {
   width: 30%;
 }
+
+
 
 }
 
