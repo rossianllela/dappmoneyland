@@ -32,9 +32,9 @@ function Nft () {
   </select>
 </div>
                             </div>  
-                            <button class="redondo">
+                            <center><button class="redondo">
                             <ion-icon name="caret-down-outline"></ion-icon>
-                            </button>
+                            </button></center>
                             <div className="cards-trade-body">
                                 <h4>TO</h4>
                                 <p>0.0</p>  

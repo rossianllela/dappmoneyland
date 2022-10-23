@@ -1327,7 +1327,7 @@ ntp-realbox[shown] {
   border:1px solid #d9d9d9;
   height:30px;
   overflow: hidden;
-  width: 230px;
+  width: 60%;
   position:relative;
 }
 select {
@@ -1336,7 +1336,7 @@ select {
   font-size: 14px;
   height: 30px;
   padding: 5px;
-  width: 250px;
+  width: auto;
 }
 select:focus{ outline: none;}
 
@@ -1448,6 +1448,10 @@ section {
   align-items: center;
   align-content: center;
   margin: auto;
+}
+
+.caja {
+  width: 60%;
 }
 
 }
