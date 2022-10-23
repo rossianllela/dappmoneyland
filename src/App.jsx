@@ -13,6 +13,7 @@ import Trad from './components/Trad';
 import Home from './components/Home';
 import Banks from "./components/Banks";
 import Game from './components/Game';
+import Perfil from './components/Perfil';
 
 const router = createBrowserRouter([
   {
@@ -46,6 +47,10 @@ const router = createBrowserRouter([
   {
     path: "/Game",
     element: <Game />,
+  },
+  {
+    path: "/Perfil",
+    element: <Perfil />,
   }
 
 ]);

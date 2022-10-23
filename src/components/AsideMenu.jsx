@@ -53,7 +53,7 @@ function AsideMenu() {
                     </li>
                     <li>
                         <ion-icon name="people-sharp"></ion-icon>
-                        { toggle && <p>Teams & Profile</p> }                        
+                        { toggle && <Link to={'/Perfil'}>Teams & Profile</Link> }                        
                     </li>
                     <li>
                         <ion-icon name="bar-chart-sharp"></ion-icon>
