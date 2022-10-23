@@ -118,9 +118,9 @@ function Home () {
                             <h3>
                                 IN MONEY FARMS
                             </h3>
-                            <button class="redondo">
+                           <center><button class="redondo">
                             <ion-icon name="chevron-forward"></ion-icon>
-                            </button>
+                            </button></center>
                         </div>     
                         <div className="carts">
                             <h3>
@@ -130,8 +130,8 @@ function Home () {
                             <h3>
                                 IN POOLS
                             </h3>
-                            <button class="redondo"><ion-icon name="chevron-forward"></ion-icon>
-                            </button>
+                            <center><button class="redondo"><ion-icon name="chevron-forward"></ion-icon>
+                            </button></center>
                         </div> 
                     <div className="carts">
                         <h3>
@@ -141,9 +141,9 @@ function Home () {
                         <h3>
                             UP FOR GRABS
                         </h3>
-                        <button class="redondo">
+                        <center><button class="redondo">
                         <ion-icon name="chevron-forward"></ion-icon>
-                        </button>
+                        </button></center>
                     </div>  
                     
                 </div>  
