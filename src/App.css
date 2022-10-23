@@ -248,7 +248,7 @@ aside > div > ul > li {
     margin: auto;
     align-items: center;
     justify-content: space-evenly;
-    height: 5rem;
+    height: 10rem;
     gap: 1rem;
     margin-top: 2.5rem;
     border-radius: 28px;
@@ -1370,8 +1370,11 @@ select:focus{ outline: none;}
 }
 
 .div-time {
-  flex-direction: column;
-  height: 150px;
+  flex-direction:column;
+  justify-content: center;
+  align-items: center;
+  width: 90%;
+  gap: 1.5rem;
 }
 
 
@@ -1452,6 +1455,10 @@ section {
 
 .caja {
   width: 60%;
+}
+
+.unlock-button {
+  width: 30%;
 }
 
 }
