@@ -31,7 +31,7 @@ function Home () {
                                 </div>
                             </div>
 
-                            <div className=""><button className="button3">BUY MONEY</button></div>
+                            <div className=""><button className="button3"><h2>BUY MONEY</h2></button></div>
                             <div className=""><button className="button3">+ADD MONEY TO</button></div>
                             <div className=""></div>
                         </div>

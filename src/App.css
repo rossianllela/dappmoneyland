@@ -1543,8 +1543,7 @@ article > div, article {
   flex-direction:column;
   justify-content: center;
   align-items: center;
-  width: 90%;
-  margin: 1rem 1rem 1rem 2rem;
+  margin: 1rem 1rem 1rem 4.5rem;
 }
 
 .cartites{
@@ -1600,3 +1599,4 @@ article {
 
 
 }
+
