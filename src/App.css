@@ -1418,6 +1418,10 @@ label {
   margin: 3rem;
 }
 
+.div-time > div {
+  gap: 0.3rem;
+}
+
 
 
 .button2 {
