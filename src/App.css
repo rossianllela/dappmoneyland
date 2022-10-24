@@ -337,7 +337,7 @@ header {
     background: #1b1e22;
     max-height: 10%;
     height: 10%;
-    display: flex;
+    display: inline-flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
@@ -1396,7 +1396,6 @@ label {
 
 
 
-
 @media screen and (max-width:811px){
 
   aside > div > ul > li > ion-icon {
@@ -1438,7 +1437,7 @@ label {
   } 
   
 .logo {
-    width: 90%;
+    width: 50%;
 }
 
 .cartas-home{
@@ -1566,14 +1565,14 @@ article > div, article {
 }
 
 article {
-  width: 75%;
-  min-width: 75%;
-  max-width: 90%;
-  margin: 5rem;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .cartes-home{
   width: 90% !important;
 }
+
 
 }
