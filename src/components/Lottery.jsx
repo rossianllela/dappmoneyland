@@ -61,14 +61,16 @@ function Lottery () {
                                 src='./images/tesoroml.png'
                                 alt="Money Land" 
                                 title="Money Land" />
-        </center> 
+        </center>
+        <div className='letra'>
        <h2><center>HOW IT WORKS</center></h2>
+       </div>
        <div className='letra'>
         <h4><center>Spend MONEY to buy tickets, contributing to the lottery pot. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their exact order!</center></h4>
        </div>
-       <br>
-       </br>
-       <h4><center>READ MORE</center></h4>           
+       <div className='letra'>
+       <h4><center>READ MORE</center></h4>  
+       </div>   
         </article>
                 </div>
         </>

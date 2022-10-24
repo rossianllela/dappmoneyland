@@ -1581,5 +1581,13 @@ article {
   margin: 1rem 1rem 1rem 3rem;
 }
 
+.textolottery {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  gap: 10rem;
+}
+
 
 }
