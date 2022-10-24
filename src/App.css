@@ -476,7 +476,7 @@ article {
 
 aside {
     max-width: 50%;
-    height: 90%;
+    height: 100%;
     position: fixed;
     background: #272c32;
     color: #ffffff;
@@ -1413,13 +1413,13 @@ label {
   flex-direction:column;
   justify-content: center;
   align-items: center;
-  width: 90%;
-  gap: 1rem;
-  margin: 1rem 1rem 1rem 6rem;
+  width: 70%;
+  gap: 0.2rem;
+  margin: 1rem 1rem 1rem 1rem;
 }
 
 .div-time > div {
-  gap: 0.3rem;
+  gap: 0.1rem;
 }
 
 
@@ -1438,7 +1438,7 @@ label {
 
 .tesoro {
   width: 50%;
-  margin: 1rem 1rem 1rem 6rem;
+  margin: 1rem 1rem 1rem 1rem;
   } 
   
 .logo {
@@ -1451,7 +1451,7 @@ label {
   align-items: center;
   width: 90%;
   gap: 1.5rem;
-  margin: 1.5rem;
+  margin: 1rem 5rem 1rem 1rem;
 }
 
 .carts{
@@ -1518,7 +1518,7 @@ article > div, article {
 }
 
 .letra {
-  margin: 1rem 1rem 1rem 5rem;
+  margin: 1rem 2rem 1rem 2rem;
 }
 
 .derecha3 {
@@ -1576,8 +1576,8 @@ article {
 }
 
 .cartes-home{
-  width: 90% !important;
-  margin: 1rem 1rem 1rem 3.5rem;
+  width: 80% !important;
+  margin: 1rem 5rem 1rem 1rem;
 }
 
 .textolottery {
@@ -1599,4 +1599,3 @@ article {
 
 
 }
-
