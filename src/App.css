@@ -1413,9 +1413,9 @@ label {
   flex-direction:column;
   justify-content: center;
   align-items: center;
-  width: 80%;
+  width: 90%;
   gap: 1rem;
-  margin: 1rem 1rem 1rem 5rem;
+  margin: 1rem 1rem 1rem 6rem;
 }
 
 .div-time > div {
@@ -1438,7 +1438,7 @@ label {
 
 .tesoro {
   width: 50%;
-  margin: 1rem 1rem 1rem 5rem;
+  margin: 1rem 1rem 1rem 6rem;
   } 
   
 .logo {
@@ -1506,7 +1506,7 @@ section {
 }
 
 .unlock-button {
-  width: 30%;
+  width: 35%;
 }
 
 article > div, article {
@@ -1578,7 +1578,7 @@ article {
 
 .cartes-home{
   width: 90% !important;
-  margin: 1rem 1rem 1rem 3rem;
+  margin: 1rem 1rem 1rem 3.5rem;
 }
 
 .textolottery {
@@ -1587,6 +1587,15 @@ article {
   justify-content: space-evenly;
   align-items: center;
   gap: 10rem;
+}
+
+.circles {
+  height: 3rem;
+  width: 2.5rem;
+}
+
+.game {
+  width: 90%;
 }
 
 
